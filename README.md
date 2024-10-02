@@ -5,8 +5,8 @@ By Aubin Manceau, Léa Granier et Léane Charpentier.
 ## Sommaire
 
 - [Qu'est-ce que Git flow ?]
-- [Qu'est-ce que Gitmoji ?]
-- [Comment faire un bon README ?]
+- [Qu'est-ce que Gitmoji ?](gitmoji.md)
+- [Comment faire un bon README ?](plan-readme.md)
 
 ## Organisation
 
